@@ -1,3 +1,4 @@
+
 function cToF(celsius) {
   // this is celsius to Fahrenheit
   var fahrenheit = (celsius * 1.8) + 32;
